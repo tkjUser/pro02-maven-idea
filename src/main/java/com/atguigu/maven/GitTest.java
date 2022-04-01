@@ -10,6 +10,10 @@ public class GitTest {
         System.out.println("hot-fix分支测试合并冲突");
 
         System.out.println("push test");
+        
+        System.out.println("pull test");
+        
+        
 
 
     }
