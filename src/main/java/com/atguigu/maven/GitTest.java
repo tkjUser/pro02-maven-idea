@@ -5,6 +5,8 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("第三次提交的内容");
         System.out.println("hot-fix分支上第一次提交的内容");
+        System.out.println("master分支上测试分支冲突");
+
 
 
     }
